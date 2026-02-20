@@ -7,5 +7,6 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
+<NexusSource>http://192.168.0.42:8081/repository/2025_dotnet_ATM_APP/</NexusSource>
+    <NexusKey>240f2403-60f4-33de-be9b-897822d4d2c6</NexusKey>
 </Project>
